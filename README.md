@@ -6,7 +6,7 @@
 
 </h1>
 <p>
-I am currently a master exchange student at Hochschule Schmalkalden in Germany and in the last year of my studies in computer science at the university of Esprit in Tunisia.I am a disciplined, determined person and I adapt fast to change.
+I am currently a master exchange student at Hochschule Schmalkalden in Germany and in the last year of my studies in computer science at the university of Esprit in Tunisia.I am passionate about web development . I love to explore new technologies and leverage them to solve new problems and to get new challenges.
 
 
 </p>
