@@ -11,8 +11,6 @@
 </p> 
 
 <h2> 🙆 Socials </h2>
-
-<p align="left"> <a href="https://www.dev.to/bassem97" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> 
 <a href="https://www.facebook.com/nour.zn.961/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
 <a href="http://www.instagram.com/bassem_jd/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/nour-elhouda-zemni-a5a68a166/" target="_blank" rel="noreferrer">
 
