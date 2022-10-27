@@ -1,14 +1,9 @@
 <h1 align="center">
  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="50px">
-<!--  <strong> Hi there</strong>-->
+
   <strong> Hi there, welcome to my github account </strong> 
 
 </h1>
-
-
-<p align="center">
-  <img  height="350px" src='https://random-memeer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-</p> 
 
 <h2> 🙆 Socials </h2>
 <a href="https://www.facebook.com/nour.zn.961/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
