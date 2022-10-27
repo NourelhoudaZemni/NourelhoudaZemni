@@ -12,7 +12,7 @@ I am currently a master exchange student at Hochschule Schmalkalden in Germany a
 </p>
 <h2> 🙆 Socials </h2>
 <a href="https://www.facebook.com/nour.zn.961/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
-<a href="http://www.instagram.com/bassem_jd/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/nour-elhouda-zemni-a5a68a166/" target="_blank" rel="noreferrer">
+<a href="https://www.instagram.com/noor._zn/?hl=fr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/nour-elhouda-zemni-a5a68a166/" target="_blank" rel="noreferrer">
 
 
 <!-- 
