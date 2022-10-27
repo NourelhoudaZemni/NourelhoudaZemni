@@ -1,14 +1,14 @@
-<p>
-I am currently a master exchange student at Hochschule Schmalkalden in Germany and in the last year of my studies in computer science at the university of Esprit in Tunisia. I am eager to be part of your company because I want to contribute to interesting projects, learn within your team and give my added value. I am a disciplined, determined person and I adapt fast to change. In fact, I changed my career at the age of 21 from an Orthoptic to a computer engineer. I also believe in the efficiency of teamwork and I am fluent in both written and spoken english..
 
-</p>
 <h1 align="center">
  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="50px">
 
   <strong> Hi there, welcome to my github account </strong> 
 
 </h1>
+<p>
+I am currently a master exchange student at Hochschule Schmalkalden in Germany and in the last year of my studies in computer science at the university of Esprit in Tunisia. I am eager to be part of your company because I want to contribute to interesting projects, learn within your team and give my added value. I am a disciplined, determined person and I adapt fast to change. In fact, I changed my career at the age of 21 from an Orthoptic to a computer engineer. I also believe in the efficiency of teamwork and I am fluent in both written and spoken english..
 
+</p>
 <h2> 🙆 Socials </h2>
 <a href="https://www.facebook.com/nour.zn.961/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
 <a href="http://www.instagram.com/bassem_jd/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/nour-elhouda-zemni-a5a68a166/" target="_blank" rel="noreferrer">
