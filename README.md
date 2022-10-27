@@ -26,7 +26,6 @@
 ## 💎 My Values
 
 🧠 Thoughtful & Inclusive Development <br/>
-🖤 Authentic Expression <br/>
 💡 Mindset of Learning & Curiosity <br/>
 🙌 Teamwork & Communication <br/>
 📊 Analytical thinking <br/>
@@ -36,20 +35,3 @@
 <h2>🚀 Some Tools I Use</h2>
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,java,php,jquery,r,styledcomponents,tailwind,nodejs,expressjs,angular,spring,maven,django,react,redux,laravel,symfony,dotnet,mongodb,mysql,sqlite,discord,git,github,gitlab,idea,jenkins,figma)
-
-## ⭐ **Top Languages**
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bassem97&theme=radical)
-<!-- ##![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bassem97&theme=radical&layout=compact) -->
-
-
-## 📊 **GitHub Stats**
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bassem97&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=bassem97&theme=radical&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44)
-<a href="http://www.github.com/bassem97"><img src="https://activity-graph.herokuapp.com/graph?username=bassem97&theme=radical&bg_color=141321&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-## 🏆 **Github Profile Trophy**
-
-![Anurag's GitHub stats](https://github-profile-trophy.vercel.app/?username=bassem97&theme=radical&row=1&column=10)
-
