@@ -1,7 +1,7 @@
 <h1 align="center">
  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="50px">
 <!--  <strong> Hi there</strong>-->
-  <strong> Hi there, here's a meme before we get started.</strong> 
+  <strong> Hi there, welcome to my github account </strong> 
 
 </h1>
 
@@ -10,29 +10,19 @@
   <img  height="350px" src='https://random-memeer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 </p> 
 
-<!--
-**bassem97/bassem97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <h2> 🙆 Socials </h2>
 
-<p align="left"> <a href="https://www.dev.to/bassem97" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="https://discord.com/users/NoobSlayer#1667" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/bassem.jadoui/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/bassem97" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/bassem_jd/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/bassem-jadoui-85b6b9199" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@bassemjadoui1996" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/19434229/bassem-jadoui" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/jadoui_bassem" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.dev.to/bassem97" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> 
+<a href="https://www.facebook.com/nour.zn.961/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
+<a href="http://www.instagram.com/bassem_jd/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/nour-elhouda-zemni-a5a68a166/" target="_blank" rel="noreferrer">
+
 
 <!-- 
 <h2>⚡️ A Few Quick Facts</h2>
 
-- 🔭 I’m currently working as a fullStack developer.
-- 🌱 I’m currently learning Angular CLI, Springboot, Django, Flask, ReactJS, NodeJS & NextJS.
-- 👯 I’m looking to collaborate on springboot open source projects.
-- 🤔 I’m looking for help with spring framework.
-- 💬 Ask me about spring, angular, nodejs, reactJS, git, java.
-- 📫 How to reach me: bassem.jadoui@esprit.tn
+- 🔭 I’m currently looking for a job as a fullstack developer
+- 💬 Ask me about spring, angular, nodejs, reactJS, git, java, laravel
+- 📫 How to reach me: nourelhouda.zemni@esprit.tn
 -->
 
 ## 💎 My Values
@@ -44,13 +34,10 @@ Here are some ideas to get you started:
 📊 Analytical thinking <br/>
 🚨 Critical thinking <br/>
 🙋‍♂️ Autonomous <br/>
-🕺 & More to discover ...
-
-
 
 <h2>🚀 Some Tools I Use</h2>
 
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,py,java,php,jquery,r,styledcomponents,tailwind,nodejs,expressjs,angular,webpack,spring,maven,flask,django,react,redux,laravel,symfony,dotnet,mongodb,mysql,sqlite,postgres,graphql,discord,linux,git,github,gitlab,idea,jenkins,kubernetes,vim,regex,stackoverflow,figma)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,java,php,jquery,r,styledcomponents,tailwind,nodejs,expressjs,angular,spring,maven,django,react,redux,laravel,symfony,dotnet,mongodb,mysql,sqlite,discord,git,github,gitlab,idea,jenkins,figma)
 
 ## ⭐ **Top Languages**
 
