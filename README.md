@@ -1,3 +1,7 @@
+<p>
+I am currently a master exchange student at Hochschule Schmalkalden in Germany and in the last year of my studies in computer science at the university of Esprit in Tunisia. I am eager to be part of your company because I want to contribute to interesting projects, learn within your team and give my added value. I am a disciplined, determined person and I adapt fast to change. In fact, I changed my career at the age of 21 from an Orthoptic to a computer engineer. I also believe in the efficiency of teamwork and I am fluent in both written and spoken english..
+
+</p>
 <h1 align="center">
  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="50px">
 
